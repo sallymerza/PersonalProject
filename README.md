@@ -8,8 +8,7 @@ The code segment is a part of project that I am working on to create an Integrat
 
 A user types predefined commands on the console, the program passes the commands and execute them then display the output by moving the object on the screen accordingly.
 
-This is an ongoing personal project that I have been working on during my spare time. The project is similar to a group project that I have worked on before, but I have decided to add more features and make it more users friendly.
-If you would like to view the  entire project code, please visit: https://github.com/sallymerza/PersonalProject/
+This is an ongoing personal project that I have been working on during my spare time. The project is similar to a group project that I have worked on befor, https://github.com/sallymerza/slogo_team08_public/
 MainTabs.java class
 
 The code segment in MainTabs.java class is responsible for adding new tabs to environment when the plus button is clicked
